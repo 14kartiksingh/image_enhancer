@@ -47,3 +47,18 @@ Real-ESRGAN uses deep generative networks to restore lost image details — espe
 - Old / low-res photos
 - Anime / artwork
 - Screenshots / compressed images
+
+
+## 📁 Folder Structure
+```bash
+├── enhance.py
+├── results/
+├── inputs/
+├── models/
+└── README.md
+```
+
+##✍️ Author
+Kartik Singh
+📧 [14kartiksingh@gmail.com]
+🌐 mistercoderz.com
